@@ -1,0 +1,5 @@
+<p align="center">
+  <a href="https://vk.com/mopo3ilo"><img src="vk-vk.svg" style="height: 24px;"></a>
+  <a href="https://facebook.com/mopo3ilo"><img src="facebook.svg" style="height: 24px;"></a>
+  <a href="https://telegram.me/mopo3ilo"><img src="telegram.svg" style="height: 24px;"></a>
+</p>
